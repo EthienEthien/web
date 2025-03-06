@@ -1,3 +1,8 @@
+---
+title: Flutter WebView App
+---
+{% include_relative README.md %}
+
 Flutter WebView Uygulaması
 
 📌 Açıklama
